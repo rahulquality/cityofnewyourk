@@ -1,0 +1,738 @@
+{
+  "data": {
+    "buildings": [
+      {
+        "parid": "1726130011 292",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790009",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790010",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790011",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790012",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790014",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790015",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790017",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790019",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790020",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790021",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790023",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790025",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003790027",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003920009",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003920010",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003920016",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003920017",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003920022",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003920025",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003920026",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003920027",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930040",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930045",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930046",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930047",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930048",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930049",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930051",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930055",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930056",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930059",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003930061",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931017",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931018",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931019",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931020",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931021",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931022",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931023",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931024",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931025",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931026",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931027",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931028",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931029",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931030",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931031",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931032",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931033",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931034",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931035",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1003931036",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040033",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040034",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040035",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040036",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040037",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040038",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040039",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040041",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040042",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040043",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040044",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040045",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040046",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040047",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040048",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040049",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040050",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040051",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040052",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040053",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040054",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040055",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040056",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040057",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040058",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004040059",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370009",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370010",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370012",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370013",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370015",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370016",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370018",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370019",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370020",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370021",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370023",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370024",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004370108",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004371001",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004371002",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004371003",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004371004",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004371005",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004371101",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004371102",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004371103",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004377501",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004377502",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380032",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380038",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380039",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380040",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380041",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380042",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380043",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380044",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380045",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380046",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380047",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380048",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380049",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380050",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380051",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380052",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1004380053",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1726140011 36",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1726160001 27",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      },
+      {
+        "parid": "1725540011 152",
+        "boro": "1",
+        "streetName": "EAST 10 STREET",
+        "zipCode": "10009"
+      }
+    ]
+  }
+}
