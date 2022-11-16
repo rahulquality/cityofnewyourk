@@ -10,7 +10,7 @@ def fetch_store_buildings(street_name, zip_code):
 
         for row in res_data:
             row['extracrdt'] = datetime.datetime.fromisoformat(row['extracrdt']).astimezone(datetime.timezone.utc)
-            BuildingModel.objects.update_or_create(parid=row['parid'],defaults=row)
+            BuildingModel.objects.update_or_create(street_name=row['street_name'], zip_code=row['zip_code'], defaults=row)
     except Exception as e:
         print("errror", e)
         pass

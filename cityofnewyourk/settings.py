@@ -79,6 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
+        "ATOMIC_MUTATIONS": True,
     }
 }
 
@@ -125,5 +126,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 GRAPHENE = {
-    'SCHEMA': 'cityofnewyourk.schema.schema' # Where your Graphene schema lives
+    'SCHEMA': 'cityofnewyourk.schema.schema', # Where your Graphene schema lives
+    "ATOMIC_MUTATIONS": True,
 }
